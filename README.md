@@ -9,6 +9,9 @@ I am a undergraduate student at FIU studying for my B.S in Computer Science. Som
 - Intro to Business Finance
 - Discrete Structures
 
+## LinkedIn 
+Samaya Lyons(in/samaya-lyons-374796335)
+
 <!--
 **Samgirl19/Samgirl19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
