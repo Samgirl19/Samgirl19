@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Samaya 👋
+
+## About Me
 I am a undergraduate student at FIU studying for my **B.S in Computer Science**. Some of my skills include problem-solving, communication skills, java programming, web development, various visual art mediums, and teamwork skills.
 
 ## Current Coursework
