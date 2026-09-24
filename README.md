@@ -3,7 +3,7 @@
 ## About Me
 I am an undergraduate student at FIU studying for my **B.S in Computer Science**. Some of my skills include problem-solving, communication skills, java programming, web development, various visual art mediums, and teamwork skills.
 
-## Current Coursework
+## Relevant Coursework
 - Data Structures
 - Computer Architecture
 - Systems (C) Programming
