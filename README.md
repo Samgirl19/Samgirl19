@@ -16,7 +16,7 @@ I am an undergraduate student at FIU studying for my **B.S in Computer Science**
 - Discrete Structures
 
 ## LinkedIn 
-[LinkedIn - Samaya Lyons](in/samayalyons)
+[LinkedIn - Samaya Lyons](www.linkedin.com/in/samayalyons)
 
 <!--
 **Samgirl19/Samgirl19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
